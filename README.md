@@ -2,7 +2,10 @@
 
 This simple app will help you track your spending, save money and gain financial insight
 
+<img width="1437" alt="Money Tracker App" src="https://github.com/ankittkamal/Money-Tracker/assets/119441544/8a07c607-1e54-432a-a229-7b96a99fb7ca">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
@@ -23,3 +26,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+<img width="437" alt="Screenshot 2023-08-03 at 2 31 40 PM" src="https://github.com/ankittkamal/Money-Tracker/assets/119441544/ff96a954-834f-4321-a12d-2e630c512b37">
+
